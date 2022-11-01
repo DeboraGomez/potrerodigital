@@ -61,6 +61,11 @@ h6{
   font-weight: 300;
   color: #fff;
 }
+.derechos{
+  display: flex;
+  text-align: center;
+  
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -114,7 +119,6 @@ h6{
 
 footer{
   display: flex;
-  flex-direction: column;
   align-items: flex-start;
   background-color: #292b39;
   color: #d4d4db;
@@ -192,7 +196,13 @@ button {
   color: #72737f;
 }
 
-
+.maps {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
